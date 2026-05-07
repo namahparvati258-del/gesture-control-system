@@ -1,6 +1,0 @@
-streamlit
-streamlit-webrtc
-mediapipe
-pyautogui
-opencv-python-headless
-screen-brightness-control
