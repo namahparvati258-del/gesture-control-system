@@ -1,5 +1,0 @@
-streamlit>=1.20.0
-streamlit-webrtc>=0.47.0
-mediapipe
-pyautogui
-opencv-python-headless
